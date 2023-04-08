@@ -292,7 +292,7 @@
       <link href="/posts/6b0cd445.html"/>
       <url>/posts/6b0cd445.html</url>
       
-        <content type="html"><![CDATA[<div class="note info modern"><p>记录一些常用的计算机命令</p></div><h1 id="cookie获取"><a href="#cookie获取" class="headerlink" title="cookie获取"></a>cookie获取</h1><p>控制台输入<code>document.cookie</code></p><h1 id="刷新DNS"><a href="#刷新DNS" class="headerlink" title="刷新DNS"></a>刷新DNS</h1><p>cmd输入<code>ipconfig/flushdns</code></p><h1 id="步骤记录器"><a href="#步骤记录器" class="headerlink" title="步骤记录器"></a>步骤记录器</h1><p>cmd 输入<code>psr</code></p>]]></content>
+        <content type="html"><![CDATA[<div class="note info modern"><p>记录一些常用的计算机命令</p></div><h2 id="cookie获取"><a href="#cookie获取" class="headerlink" title="cookie获取"></a>cookie获取</h2><p>控制台输入<code>document.cookie</code></p><h2 id="刷新DNS"><a href="#刷新DNS" class="headerlink" title="刷新DNS"></a>刷新DNS</h2><p>cmd输入<code>ipconfig/flushdns</code></p><h2 id="步骤记录器"><a href="#步骤记录器" class="headerlink" title="步骤记录器"></a>步骤记录器</h2><p>cmd 输入<code>psr</code></p><h2 id="scoop包管理器"><a href="#scoop包管理器" class="headerlink" title="scoop包管理器"></a>scoop包管理器</h2><p><code>neofetch</code>  查看系统信息</p>]]></content>
       
       
       
