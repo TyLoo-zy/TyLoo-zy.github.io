@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>一些配置项</title>
+      <link href="/posts/acc3fd1f.html"/>
+      <url>/posts/acc3fd1f.html</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="3f58a06278e6712313521b95863e4dd9681236b7139e84b1ca60c95b4e49c9ec">b1b5cca864ba944475e8a83009f0cbb483989c70a7193187df2903a67c5921f0c0f44f836c83e7ecdae4a2a2d4ffd491fb99a8cac261088a6ace520489e8996612da865d4ea791ecb5bc3b1bf90df3087706fafcc8bf119cc55f708032982ad31268c5da78baea27b864acfd87de18212241fb98024a13166c562261ce6b3b14bfac93c6cbed14dbbbaa7dea4181b923754836b8b8685b187dd737b42180ef292e4b584b6a695d9d35d4fa6c69ad13ef5f20c248459ad2954ff9bcc031f4d29c37c2dd0aa751777fe3ab503ed604e60a374989363804e24223e263b00faa14dea0f65503b7e69b73f7781628b2d1dadf910bad26159623a064d104a6e0379a6ffa11f446cd2411d854735a69bfd197d8a463fc14079671ed4a72db9ba188734c8a90ce12c7c1bf5c3f8a626dee46ef71734f01ba58201b32e238ae868eaf94037bbe0d11ba658658975b78468a1beb1c4790141b542a7755d87556fef2b01d3ebb76661ad14f715f03aaa76ff6a9a6dfed3b9d609376afdd364671267e4e1d23dc898a68587e5309ec4b396ba336ebbef5b3d35dbdaa34fd80eeddf9e29857821e8084209e10e0f4cd9aea0ad57a2fceee55473e32cd1f93b8734a0c244575df4dd998ae97dc12f79c9bd1411940a0fc9f27166f3f3b18d35f13df7e7efbc257933609c6c20fee713257114893ae04953ccbda677e9264754fa84d8ebe86bad21c6dd78f88ee7e851548cec8c607a2740f173a343e48c8f3f8415cc11ce8054f985f536616517f98d0f7d534450d137ebdd1b2108f6054c09814a65d2b9060fc</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-blink">      <input class="hbe hbe-input-field hbe-input-field-blink" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-blink" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-blink" data-content="您好, 这里需要密码.">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>记一次MySQL的安装</title>
       <link href="/posts/e4055611.html"/>
       <url>/posts/e4055611.html</url>
